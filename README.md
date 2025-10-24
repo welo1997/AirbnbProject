@@ -1,5 +1,11 @@
 🏠 Airbnb Business Strategy Analysis (Prague)
 
+## 🔗 View the Final Dashboard
+
+Explore the interactive visualizations and key findings for this project on Tableau Public:
+
+[**Tableau Public Dashboard: Airbnb Business Strategy Analysis**](https://public.tableau.com/app/profile/vojtech.cizinsky/viz/airbnb_17470400188730/Dashboard1)
+
 This project is a comprehensive data analysis study designed to provide actionable strategic insights for prospective Airbnb hosts. Utilizing real-world data from Prague, the analysis answers critical business questions regarding pricing, location, capacity, and market demand.
 
 ***
